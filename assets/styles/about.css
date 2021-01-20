@@ -1,0 +1,376 @@
+
+.kode_about_bg{
+  float:left;
+  width:100%;
+  border-bottom:3px solid;
+  position:relative;
+  background-image:url("/image/about-us-01.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position:center;
+  min-height:191px;
+  background-attachment:fixed;
+}
+.kode_about_bg:before{
+  content:"";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color:rgba(0,0,0,0.7);
+}
+.kode_about_bg .container{
+  position:relative;
+}
+.kode_aboutus_wrap{
+  float:left;
+  width:100%;
+  text-align:center;
+  position:relative;
+  padding:40px 0 0;
+}
+
+.kode_aboutus_wrap h4{
+  color:#fff;
+  font-weight:bold;
+  text-transform:uppercase;
+}
+.kode_bread_crumb{
+  float:left;
+  width:100%;
+}
+.kode_bread_crumb ul li{
+  display:inline-block;
+  position:relative;
+}
+.kode_bread_crumb ul li:before{
+  content:"\f101";
+  font-family:fontawesome;
+  color:#fff;
+  position:absolute;
+  top:0px;
+  left:-4px;
+  font-weight:bold;
+}
+.kode_bread_crumb ul li:first-child:before{
+  font-size:0px;
+}
+.kode_bread_crumb ul li a{
+  display:block;
+  padding:0px 10px;
+  color:#fff;
+  font-weight:bold;
+  text-transform:uppercase;
+  font-size:12px;
+}
+
+
+.kode_wel_demo_des a.kode_link_3:hover{
+  color:#fff;
+}
+/*About US Welcome*/
+.kode_about_welcome{
+  padding:35px 0px 30px;
+}
+.kode_about_welcome a.kode_link_3:hover i{
+  color:#fff;
+}
+
+
+.kode_services_abt_bg{
+  background:#f9f9f9;
+}
+.kode_about_services{
+  float:left;
+  width:100%;
+  position:relative;
+  text-align:center;
+  padding:0px 20px 20px;
+}
+.kode_about_services i{
+  display:block;
+  font-size:60px;
+  margin:0px 0px 16px;
+  color:#3d3d3d;
+}
+.kode_about_services h5 a{
+  display:block;
+  font-weight:bold;
+  text-transform:capitalize;
+  padding-bottom:16px;
+  margin-bottom:10px;
+  position:relative;
+  line-height:24px;
+}
+.kode_about_services h5 a:before{
+  content:"";
+  position:absolute;
+  bottom:0px;
+  left:0px;
+  right:0px;
+  height:1px;
+  width:50px;
+  margin:auto;
+  background-color:#333333;
+}
+.kode_about_services p{
+  word-break:break-all;
+  line-height:26px;
+  font-weight:600;
+}
+
+
+.kode_wrapper,
+.kode_content,
+section{
+  float:left;
+  width:100%;
+  overflow:hidden;
+}
+header{
+  float:left;
+  width:100%;
+}
+section{
+  padding:70px 0px;
+}
+
+
+.kode_socil_counter_bg{
+}
+.kode_social_item_list{
+  float:left;
+  width:100%;
+  position:relative;
+}
+.kode_social_item{
+  float:left;
+  width:100%;
+  border-left:1px solid #fff;
+  text-align:center;
+  position:relative;
+}
+.kode_social_item i{
+  float:left;
+  width:100px;
+  font-size:50px;
+  color:#fff;
+  padding-top:15px;
+}
+.kode_social_des{
+  float:none;
+  padding:0px 0px 0px 60px;
+  width:auto;
+  text-align:left;
+}
+.kode_social_des h4{
+  color:#fff;
+  display:inline-block;
+  font-weight:bold;
+  font-size:36px;
+  line-height:30px;
+}
+.kode_social_des span{
+  display:inline-block;
+  color:#fff;
+  font-weight:bold;
+  font-size:36px;
+}
+.kode_social_des p{
+  color:#fff;
+  text-transform:capitalize;
+  margin:0px;
+  font-size:16px;
+}
+.kode_social_item_list .col-md-3:first-child .kode_social_item{
+  border-left:0px;
+}
+
+
+
+.kode_about_meet_bg{
+}
+.kode_meet_bg{
+  padding-top:58px;
+}
+.kode_top_politician_bg{
+}
+.kode_politician {
+  float: left;
+  padding: 0 0 30px;
+  position: relative;
+  width: 100%;
+  box-shadow:0 0 2px 1px rgba(0, 0, 0, 0.18);
+}
+.kode_politician figure{
+  border-bottom:4px solid #434343;
+  margin-bottom:15px;
+  transition: .3s;
+}
+.kode_politician figure img{
+  width:100%;
+  height:auto;
+}
+.kode_politician figure:before{
+  content:"";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:0%;
+  background-color:rgba(51,51,51,0.8);
+  transition: .3s;
+}
+.kode_poli_img_des{
+  width:100%;
+  text-align:center;
+  position:absolute;
+  top:0%;
+  margin:-100px 0px 0px;
+  z-index:99999;
+  padding:0px 25px;
+  opacity:0;
+}
+.kode_poli_img_des h6 a{
+  display:inline-block;
+  color:#fff;
+  font-size:20px;
+  text-transform:uppercase;
+  font-weight:bold;
+  margin-bottom:15px;
+}
+.kode_poli_img_des span{
+  display:block;
+  color:#cccccc;
+  margin-bottom:20px;
+}
+.kode_poli_img_des p{
+  color:#cccccc;
+  word-break:break-all;
+}
+.kode_politician_des{
+  float:left;
+  width:100%;
+  text-align:center;
+  position:relative;
+}
+.kode_politician_des:before{
+  content:"";
+  position:absolute;
+  width: 0;
+  height: 0;
+  top:-15px;
+  left:0px;
+  right:0px;
+  margin:auto;
+  opacity:0;
+  visibility:hidden;
+}
+.kode_politician_des h6{
+  font-size:20px;
+  color:#27282d;
+  text-transform:uppercase;
+
+  font-weight:bold;
+}
+.kode_politician_des p{
+  color:#999999;
+  text-transform:capitalize;
+
+}
+.kode_politician_des ul{
+  float:left;
+  width:100%;
+}
+.kode_politician_des ul li{
+  display:inline-block;
+  position:relative;
+}
+.kode_politician_des ul li a{
+  display:block;
+  padding:0px 15px;
+  color:#777;
+  font-size:20px;
+}
+.kode_politician:hover{
+  box-shadow:0px 0px 8px 2px rgba(0,0,0,0.18);
+}
+.kode_politician:hover figure:before{
+  height:100%;
+}
+.kode_politician:hover .kode_poli_img_des{
+  top:50%;
+  opacity:1;
+}
+.kode_politician:hover figure{
+  border-bottom:4px solid;
+}
+.kode_politician:hover .kode_politician_des:before{
+  opacity:1;
+  visibility:visible;
+}
+
+
+.kode_skill_bg{
+  position:relative;
+  background-image:url("/image/our-skill-bg.jpg");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+  margin-bottom: 60px;
+}
+.kode_volunteer_bg:container{
+  position:relative;
+}
+.kode-skills{
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+.kode-skills ul{
+  float: left;
+  width: 100%;
+  margin: 0px 0px 30px 0px;
+}
+.kode-chart{
+  display: inline-block;
+  width: 185px;
+  height: 195px;
+  margin: 20px 40px;
+  vertical-align: top;
+  position: relative;
+  padding-top: 22px;
+  text-align: center;
+
+}
+.kode-chart span{
+  background:#fff;
+  border-radius: 100%;
+  display: inline-block;
+  font-size: 18;
+  font-weight: normal;
+  height: 80px;
+  width: 80px;
+  line-height: 82px;
+  text-align: center;
+  margin: 16% 0px;
+  color: #000;
+  font-size:20px;
+  font-weight:bold;
+}
+.kode-chart canvas{
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.kode-chart > h5 {
+  bottom: -50px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  text-transform: uppercase;
+  margin-bottom:15px;
+  color:#fff;
+}

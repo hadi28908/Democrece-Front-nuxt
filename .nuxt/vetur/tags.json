@@ -1,0 +1,158 @@
+{
+  "HeaderAndMenu": {
+    "description": "Auto imported from components/HeaderAndMenu.vue"
+  },
+  "LazyHeaderAndMenu": {
+    "description": "Auto imported from components/HeaderAndMenu.vue"
+  },
+  "AboutDemocrace": {
+    "description": "Auto imported from components/About/About_Democrace.vue"
+  },
+  "LazyAboutDemocrace": {
+    "description": "Auto imported from components/About/About_Democrace.vue"
+  },
+  "AboutNavbar": {
+    "description": "Auto imported from components/About/About_Navbar.vue"
+  },
+  "LazyAboutNavbar": {
+    "description": "Auto imported from components/About/About_Navbar.vue"
+  },
+  "AboutOurpeople": {
+    "description": "Auto imported from components/About/About_OURPEOPLE.vue"
+  },
+  "LazyAboutOurpeople": {
+    "description": "Auto imported from components/About/About_OURPEOPLE.vue"
+  },
+  "AboutServices": {
+    "description": "Auto imported from components/About/About_Services.vue"
+  },
+  "LazyAboutServices": {
+    "description": "Auto imported from components/About/About_Services.vue"
+  },
+  "AboutSoial": {
+    "description": "Auto imported from components/About/About_Soial.vue"
+  },
+  "LazyAboutSoial": {
+    "description": "Auto imported from components/About/About_Soial.vue"
+  },
+  "ComingComingSon": {
+    "description": "Auto imported from components/COMMING/Coming_Coming_Son.vue"
+  },
+  "LazyComingComingSon": {
+    "description": "Auto imported from components/COMMING/Coming_Coming_Son.vue"
+  },
+  "CommingNavbar": {
+    "description": "Auto imported from components/COMMING/Comming_Navbar.vue"
+  },
+  "LazyCommingNavbar": {
+    "description": "Auto imported from components/COMMING/Comming_Navbar.vue"
+  },
+  "ContactConects": {
+    "description": "Auto imported from components/Contact/Contact_Conects.vue"
+  },
+  "LazyContactConects": {
+    "description": "Auto imported from components/Contact/Contact_Conects.vue"
+  },
+  "ContactForm": {
+    "description": "Auto imported from components/Contact/Contact_Form.vue"
+  },
+  "LazyContactForm": {
+    "description": "Auto imported from components/Contact/Contact_Form.vue"
+  },
+  "ContactNavbar": {
+    "description": "Auto imported from components/Contact/Contact_Navbar.vue"
+  },
+  "LazyContactNavbar": {
+    "description": "Auto imported from components/Contact/Contact_Navbar.vue"
+  },
+  "Card": {
+    "description": "Auto imported from components/main/Card.vue"
+  },
+  "LazyCard": {
+    "description": "Auto imported from components/main/Card.vue"
+  },
+  "Contact": {
+    "description": "Auto imported from components/main/Contact.vue"
+  },
+  "LazyContact": {
+    "description": "Auto imported from components/main/Contact.vue"
+  },
+  "Countup": {
+    "description": "Auto imported from components/main/Countup.vue"
+  },
+  "LazyCountup": {
+    "description": "Auto imported from components/main/Countup.vue"
+  },
+  "Democrace": {
+    "description": "Auto imported from components/main/Democrace.vue"
+  },
+  "LazyDemocrace": {
+    "description": "Auto imported from components/main/Democrace.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/main/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/main/Footer.vue"
+  },
+  "ImageTabs": {
+    "description": "Auto imported from components/main/ImageTabs.vue"
+  },
+  "LazyImageTabs": {
+    "description": "Auto imported from components/main/ImageTabs.vue"
+  },
+  "Latest": {
+    "description": "Auto imported from components/main/latest.vue"
+  },
+  "LazyLatest": {
+    "description": "Auto imported from components/main/latest.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/main/navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/main/navbar.vue"
+  },
+  "News": {
+    "description": "Auto imported from components/main/News.vue"
+  },
+  "LazyNews": {
+    "description": "Auto imported from components/main/News.vue"
+  },
+  "Ourpeople": {
+    "description": "Auto imported from components/main/OURPEOPLE.vue"
+  },
+  "LazyOurpeople": {
+    "description": "Auto imported from components/main/OURPEOPLE.vue"
+  },
+  "Politician": {
+    "description": "Auto imported from components/main/politician.vue"
+  },
+  "LazyPolitician": {
+    "description": "Auto imported from components/main/politician.vue"
+  },
+  "Progress": {
+    "description": "Auto imported from components/main/Progress.vue"
+  },
+  "LazyProgress": {
+    "description": "Auto imported from components/main/Progress.vue"
+  },
+  "Seetheawesomefeature": {
+    "description": "Auto imported from components/main/SEETHEAWESOMEFEATURE.vue"
+  },
+  "LazySeetheawesomefeature": {
+    "description": "Auto imported from components/main/SEETHEAWESOMEFEATURE.vue"
+  },
+  "Test": {
+    "description": "Auto imported from components/main/test.vue"
+  },
+  "LazyTest": {
+    "description": "Auto imported from components/main/test.vue"
+  },
+  "What": {
+    "description": "Auto imported from components/main/What.vue"
+  },
+  "LazyWhat": {
+    "description": "Auto imported from components/main/What.vue"
+  }
+}

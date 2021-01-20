@@ -1,0 +1,113 @@
+
+.kf_comming_bg{
+  background-image:url("/image/comeing-soon.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  position:relative;
+  background-attachment:fixed;
+  padding-bottom:66px;
+}
+.kf_comming_wrap,
+.kf_comming_counter
+{
+  float:left;
+  width:100%;
+  text-align:center;
+}
+.kf_comming_counter{
+  margin-bottom:50px;
+}
+.kf_comming_wrap a{
+  display:inline-block;
+  margin-bottom:25px;
+}
+.kf_comming_counter h2{
+  color:#fff;
+  font-weight:bold;
+  text-transform:uppercase;
+  margin-bottom:10px;
+}
+.kf_comming_counter h4{
+  color:#fff;
+  font-weight:bold;
+  text-transform:uppercase;
+  margin-bottom:42px;
+}
+.kf_comming_counter ul.countdown:before,
+.kf_comming_counter ul.countdown:after{
+  display:none;
+}
+.kf_comming_counter ul.countdown li{
+  width:100px;
+  height:10px;
+  line-height:60px;
+  background-color:rgba(255, 255, 255, 0.5);
+  height:150px;
+  width:150px;
+  border:0px;
+  text-align:center;
+  position:relative;
+  margin-left:15px;
+}
+.kf_comming_counter ul.countdown li span{
+  background:none;
+  border:0px;
+  padding-top:10px;
+}
+.kf_comming_counter ul.countdown li p{
+  position:absolute;
+  bottom:44px;
+  left:0px;
+  right:0px;
+  margin:auto;
+  color:#020202;
+}
+.kf_comming_form{
+  width:560px;
+  margin:auto auto 50px;
+  position:relative;
+}
+.kf_comming_form form input[type="text"]{
+  width: 50%;
+  border:1px solid #fff;
+  height:50px;
+  float:left;
+  background:none;
+  padding:8px 15px;
+  color:#fff;
+}
+.kf_comming_form button,
+.kf_comming_form input[type="submit"]{
+  text-transform:uppercase;
+  border:1px solid #fff;
+  height:50px;
+  padding:0px 25px;
+  margin-left: 5px;
+  background:none;
+  color:#fff;
+}
+.kf_comming_form button:hover,
+.kf_comming_form input[type="submit"]:hover{
+  color:#fff;
+}
+.kf_comming_social{
+  margin-top:50px;
+}
+.kf_comming_social,
+.kf_comming_social ul
+{
+  float:left;
+  width:100%;
+  text-align:center;
+}
+.kf_comming_social ul li{
+  display:inline-block;
+  position:relative;
+}
+.kf_comming_social ul li a{
+  display:block;
+  font-size:18px;
+  padding:0px 15px;
+  color:#fff;
+}

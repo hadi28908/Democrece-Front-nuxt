@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5301f13c-53f7-4d71-91a1-208c4e813624" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/main/politician.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/routes.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/routes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/vetur/tags.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/vetur/tags.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/About/About_Contact.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/About/About_Democrace.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/About/About_Democrace.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/About/About_Services.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/About/About_Services.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/About/About_Soial.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/About/About_Soial.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HeaderAndMenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/HeaderAndMenu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main/Card.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/Card.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main/Democrace.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/Democrace.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/Footer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main/ImageTabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/ImageTabs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main/News.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/News.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main/SEETHEAWESOMEFEATURE.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/SEETHEAWESOMEFEATURE.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main/latest.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/latest.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main/navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main/test.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/test.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/checking/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/sw.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kpk1CRno028W6Sx8WrL2sPnMEA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/components/About" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="vuejs.nuxt.types-notification-shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\source\repos\Ipassa-front\components\About" />
+      <recent name="C:\Users\user\source\repos\Ipassa-front\static\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\source\repos\Ipassa-front\assets\styles" />
+      <recent name="C:\Users\user\source\repos\Ipassa-front\components\About" />
+      <recent name="C:\Users\user\source\repos\Ipassa-front\components\main" />
+      <recent name="C:\Users\user\source\repos\Ipassa-front\components" />
+      <recent name="C:\Users\user\source\repos\Ipassa-front\static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5301f13c-53f7-4d71-91a1-208c4e813624" name="Default Changelist" comment="" />
+      <created>1606404712747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606404712747</updated>
+      <workItem from="1606404716813" duration="1793000" />
+      <workItem from="1606407131544" duration="6841000" />
+      <workItem from="1606460210608" duration="5283000" />
+      <workItem from="1606467762353" duration="8559000" />
+      <workItem from="1606476553256" duration="3246000" />
+      <workItem from="1606480544824" duration="1265000" />
+      <workItem from="1606484463936" duration="6342000" />
+      <workItem from="1606549062140" duration="15113000" />
+      <workItem from="1606567533680" duration="6551000" />
+      <workItem from="1606579212573" duration="742000" />
+      <workItem from="1606636746852" duration="11238000" />
+      <workItem from="1606651846864" duration="4070000" />
+      <workItem from="1606720576139" duration="2409000" />
+      <workItem from="1606743580637" duration="3763000" />
+      <workItem from="1606755061940" duration="2757000" />
+      <workItem from="1606805961592" duration="2278000" />
+      <workItem from="1606809870708" duration="4593000" />
+      <workItem from="1606904811064" duration="5058000" />
+      <workItem from="1606913814408" duration="4525000" />
+      <workItem from="1606986067752" duration="5320000" />
+      <workItem from="1607068408705" duration="1318000" />
+      <workItem from="1607089462640" duration="743000" />
+      <workItem from="1607154900530" duration="4421000" />
+      <workItem from="1607163298454" duration="1834000" />
+      <workItem from="1607241431352" duration="404000" />
+      <workItem from="1607241941656" duration="4403000" />
+      <workItem from="1607500403178" duration="3222000" />
+      <workItem from="1608104965092" duration="3586000" />
+      <workItem from="1608131589280" duration="7540000" />
+      <workItem from="1608141141772" duration="276000" />
+      <workItem from="1608639475996" duration="1692000" />
+      <workItem from="1608796467922" duration="4970000" />
+      <workItem from="1608912183793" duration="4879000" />
+      <workItem from="1608962482077" duration="1160000" />
+      <workItem from="1608979796272" duration="2379000" />
+      <workItem from="1609065774897" duration="5219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
