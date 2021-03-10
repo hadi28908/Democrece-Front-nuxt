@@ -2,43 +2,37 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "C:\\\\Users\\\\user\\\\source\\\\repos\\\\ipassa-frontend\\\\pages\\\\about\\\\index.vue",
-    "chunkName": "pages/about/index",
-    "_name": "_c6c1c3ee"
+    "component": "C:\\\\Users\\\\user\\\\Documents\\\\GitHub\\\\Democrece-Front-nuxt\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index"
   },
   {
     "name": "comming",
     "path": "/comming",
-    "component": "C:\\\\Users\\\\user\\\\source\\\\repos\\\\ipassa-frontend\\\\pages\\\\comming\\\\index.vue",
-    "chunkName": "pages/comming/index",
-    "_name": "_71b979a0"
+    "component": "C:\\\\Users\\\\user\\\\Documents\\\\GitHub\\\\Democrece-Front-nuxt\\\\pages\\\\comming\\\\index.vue",
+    "chunkName": "pages/comming/index"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "C:\\\\Users\\\\user\\\\source\\\\repos\\\\ipassa-frontend\\\\pages\\\\contact\\\\index.vue",
-    "chunkName": "pages/contact/index",
-    "_name": "_447dded4"
+    "component": "C:\\\\Users\\\\user\\\\Documents\\\\GitHub\\\\Democrece-Front-nuxt\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index"
   },
   {
     "name": "privacy",
     "path": "/privacy",
-    "component": "C:\\\\Users\\\\user\\\\source\\\\repos\\\\ipassa-frontend\\\\pages\\\\privacy\\\\index.vue",
-    "chunkName": "pages/privacy/index",
-    "_name": "_3d7ce02e"
+    "component": "C:\\\\Users\\\\user\\\\Documents\\\\GitHub\\\\Democrece-Front-nuxt\\\\pages\\\\privacy\\\\index.vue",
+    "chunkName": "pages/privacy/index"
   },
   {
     "name": "Q",
     "path": "/Q",
-    "component": "C:\\\\Users\\\\user\\\\source\\\\repos\\\\ipassa-frontend\\\\pages\\\\Q\\\\index.vue",
-    "chunkName": "pages/Q/index",
-    "_name": "_15ffa4c5"
+    "component": "C:\\\\Users\\\\user\\\\Documents\\\\GitHub\\\\Democrece-Front-nuxt\\\\pages\\\\Q\\\\index.vue",
+    "chunkName": "pages/Q/index"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\user\\\\source\\\\repos\\\\ipassa-frontend\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_ebeca9c4"
+    "component": "C:\\\\Users\\\\user\\\\Documents\\\\GitHub\\\\Democrece-Front-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]

@@ -13,11 +13,11 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_50d40d3b from 'nuxt_plugin_plugin_50d40d3b' // Source: .\\components\\plugin.js (mode: 'all')
-import nuxt_plugin_plugin_497a3099 from 'nuxt_plugin_plugin_497a3099' // Source: .\\vuetify\\plugin.js (mode: 'all')
-import nuxt_plugin_workbox_6b28b77a from 'nuxt_plugin_workbox_6b28b77a' // Source: .\\workbox.js (mode: 'client')
-import nuxt_plugin_meta_60243c1a from 'nuxt_plugin_meta_60243c1a' // Source: .\\pwa\\meta.js (mode: 'all')
-import nuxt_plugin_axios_e6bd7c44 from 'nuxt_plugin_axios_e6bd7c44' // Source: .\\axios.js (mode: 'all')
+import nuxt_plugin_plugin_636865c2 from 'nuxt_plugin_plugin_636865c2' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_plugin_77e91b35 from 'nuxt_plugin_plugin_77e91b35' // Source: .\\vuetify\\plugin.js (mode: 'all')
+import nuxt_plugin_workbox_47f0445e from 'nuxt_plugin_workbox_47f0445e' // Source: .\\workbox.js (mode: 'client')
+import nuxt_plugin_meta_e7d01ce2 from 'nuxt_plugin_meta_e7d01ce2' // Source: .\\pwa\\meta.js (mode: 'all')
+import nuxt_plugin_axios_7222907c from 'nuxt_plugin_axios_7222907c' // Source: .\\axios.js (mode: 'all')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -77,7 +77,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"titleTemplate":"%s - ipassa-front","title":"ipassa-front","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""},{"hid":"charset","charset":"utf-8"},{"hid":"mobile-web-app-capable","name":"mobile-web-app-capable","content":"yes"},{"hid":"apple-mobile-web-app-title","name":"apple-mobile-web-app-title","content":"ipassa-front"},{"hid":"og:type","name":"og:type","property":"og:type","content":"website"},{"hid":"og:title","name":"og:title","property":"og:title","content":"ipassa-front"},{"hid":"og:site_name","name":"og:site_name","property":"og:site_name","content":"ipassa-front"}],"link":[{"rel":"stylesheet","href":"https:\u002F\u002Fcdnjs.cloudflare.com\u002Fajax\u002Flibs\u002Ffont-awesome\u002F4.7.0\u002Fcss\u002Ffont-awesome.min.css"},{"rel":"stylesheet","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;600;700;800&family=Sintony:wght@400;700&display=swap"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Roboto:100,300,400,500,700,900&display=swap"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Fcdn.jsdelivr.net\u002Fnpm\u002F@mdi\u002Ffont@latest\u002Fcss\u002Fmaterialdesignicons.min.css"},{"rel":"manifest","href":"\u002F_nuxt\u002Fmanifest.90a4faf4.json","hid":"manifest"}],"style":[],"script":[],"htmlAttrs":{"lang":"en"}},
+    head: {"titleTemplate":"%s - ipassa-front","title":"ipassa-front","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""}],"link":[{"rel":"stylesheet","href":"https:\u002F\u002Fcdnjs.cloudflare.com\u002Fajax\u002Flibs\u002Ffont-awesome\u002F4.7.0\u002Fcss\u002Ffont-awesome.min.css"},{"rel":"stylesheet","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;600;700;800&family=Sintony:wght@400;700&display=swap"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Roboto:100,300,400,500,700,900&display=swap"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Fcdn.jsdelivr.net\u002Fnpm\u002F@mdi\u002Ffont@latest\u002Fcss\u002Fmaterialdesignicons.min.css"}],"style":[],"script":[]},
 
     store,
     router,
@@ -206,24 +206,24 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_50d40d3b === 'function') {
-    await nuxt_plugin_plugin_50d40d3b(app.context, inject)
+  if (typeof nuxt_plugin_plugin_636865c2 === 'function') {
+    await nuxt_plugin_plugin_636865c2(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_plugin_497a3099 === 'function') {
-    await nuxt_plugin_plugin_497a3099(app.context, inject)
+  if (typeof nuxt_plugin_plugin_77e91b35 === 'function') {
+    await nuxt_plugin_plugin_77e91b35(app.context, inject)
   }
 
-  if (process.client && typeof nuxt_plugin_workbox_6b28b77a === 'function') {
-    await nuxt_plugin_workbox_6b28b77a(app.context, inject)
+  if (process.client && typeof nuxt_plugin_workbox_47f0445e === 'function') {
+    await nuxt_plugin_workbox_47f0445e(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_meta_60243c1a === 'function') {
-    await nuxt_plugin_meta_60243c1a(app.context, inject)
+  if (typeof nuxt_plugin_meta_e7d01ce2 === 'function') {
+    await nuxt_plugin_meta_e7d01ce2(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_axios_e6bd7c44 === 'function') {
-    await nuxt_plugin_axios_e6bd7c44(app.context, inject)
+  if (typeof nuxt_plugin_axios_7222907c === 'function') {
+    await nuxt_plugin_axios_7222907c(app.context, inject)
   }
 
   // Lock enablePreview in context

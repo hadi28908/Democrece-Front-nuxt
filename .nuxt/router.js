@@ -3,12 +3,12 @@ import Router from 'vue-router'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _c6c1c3ee = () => interopDefault(import('..\\pages\\about\\index.vue' /* webpackChunkName: "pages/about/index" */))
-const _71b979a0 = () => interopDefault(import('..\\pages\\comming\\index.vue' /* webpackChunkName: "pages/comming/index" */))
-const _447dded4 = () => interopDefault(import('..\\pages\\contact\\index.vue' /* webpackChunkName: "pages/contact/index" */))
-const _3d7ce02e = () => interopDefault(import('..\\pages\\privacy\\index.vue' /* webpackChunkName: "pages/privacy/index" */))
-const _15ffa4c5 = () => interopDefault(import('..\\pages\\Q\\index.vue' /* webpackChunkName: "pages/Q/index" */))
-const _ebeca9c4 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _2dae4ce6 = () => interopDefault(import('..\\pages\\about\\index.vue' /* webpackChunkName: "pages/about/index" */))
+const _7a7b37b8 = () => interopDefault(import('..\\pages\\comming\\index.vue' /* webpackChunkName: "pages/comming/index" */))
+const _2ec9fb1a = () => interopDefault(import('..\\pages\\contact\\index.vue' /* webpackChunkName: "pages/contact/index" */))
+const _e2f46a9c = () => interopDefault(import('..\\pages\\privacy\\index.vue' /* webpackChunkName: "pages/privacy/index" */))
+const _709bc249 = () => interopDefault(import('..\\pages\\Q\\index.vue' /* webpackChunkName: "pages/Q/index" */))
+const _aa6bc7cc = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
 const emptyFn = () => {}
@@ -28,27 +28,27 @@ export const routerOptions = {
 
   routes: [{
     path: "/about",
-    component: _c6c1c3ee,
+    component: _2dae4ce6,
     name: "about"
   }, {
     path: "/comming",
-    component: _71b979a0,
+    component: _7a7b37b8,
     name: "comming"
   }, {
     path: "/contact",
-    component: _447dded4,
+    component: _2ec9fb1a,
     name: "contact"
   }, {
     path: "/privacy",
-    component: _3d7ce02e,
+    component: _e2f46a9c,
     name: "privacy"
   }, {
     path: "/Q",
-    component: _15ffa4c5,
+    component: _709bc249,
     name: "Q"
   }, {
     path: "/",
-    component: _ebeca9c4,
+    component: _aa6bc7cc,
     name: "index"
   }],
 
